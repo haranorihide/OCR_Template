@@ -238,5 +238,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-st.write("riron1206様制作")
